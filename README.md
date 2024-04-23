@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hello,%20This%20is%20Shakhboz%20&fontAlign=50&reversal=false&fontColor=0ABAB5&animation=blink&desc=Data%20Scientist%20|%20Deep%20Learning%20Engineer%20&descAlign=31&descAlignY=74)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2C7865&center=true&random=false&width=870&height=100&lines=Python+%7C+C%2B%2B+%7C+JavaScript+%7C+C%23+%7C+Dart;Machine+Learning+%7C+Deep+Learning+%7C+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=09AEA9&background=E0FFF000&center=true&random=false&width=435&lines=Python+-+Java+-+C%2B%2B+-+Dart)](https://git.io/typing-svg)
 
 ## 👨‍💻 I code with
 ### Languages
