@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hello,%20This%20is%20Shakhboz%20&fontAlign=50&reversal=false&fontColor=0ABAB5&fontAlign=50&fontSize=60&animation=twinkling&strokeWidth=1&stroke=FFFFFF&descAlign=31&desc=Machine%20Learning%20Engineer%20|%20Data%20Scientist&descAlignY=67)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hello,%20This%20is%20Shakhboz%20&fontAlign=50&reversal=false&fontColor=0ABAB5&animation=blink&desc=Data%20Scientist%20|%20Deep%20Learning%20Engineer%20&descAlign=37&descAlignY=73)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2C7865&center=true&random=false&width=870&height=100&lines=Python+%7C+C%2B%2B+%7C+JavaScript+%7C+C%23+%7C+Dart;Machine+Learning+%7C+Deep+Learning+%7C+Data+Science)](https://git.io/typing-svg)
 
