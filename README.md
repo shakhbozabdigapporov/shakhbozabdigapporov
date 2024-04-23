@@ -2,12 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=09AEA9&background=E0FFF000&center=true&random=false&width=435&lines=Python+-+Java+-+C%2B%2B+-+Dart)](https://git.io/typing-svg)
 
-## 👨‍💻 I code with
-### Languages
+## My Preferred Coding Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Javascript-FCC624?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%23-1C1678?style=for-the-badge&logo=C%23&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-1679AB?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
